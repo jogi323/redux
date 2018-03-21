@@ -1,0 +1,17 @@
+.header {
+    background: black;
+    padding: 1%;
+}
+.header ul {
+    list-style: none;
+}
+.header ul li {
+    display: inline;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.header ul li a {
+    text-decoration: none !important;
+}
